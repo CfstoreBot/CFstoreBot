@@ -1,0 +1,28 @@
+{
+    "default": "external",
+
+    "external": "http://20.25.29.63/app/api.php?lista={cc}",
+    "iugu": {
+        "account_id": "",
+        "token": ""
+    },
+    "mercadopago": {
+        "token": ""
+    },
+    "getnet": {
+        "client_id": "",
+        "client_secret": "",
+        "seller_id": ""
+    },
+    "cielo": {
+        "cieloMerchantId": "beab79c0-2db5-44cb-b0e4-d52d1c46bb0e",
+        "cieloMerchantKey": "mFc3O9BvjQvKJGPRcxrzGN2kb8z6zObUi6GHoek5"
+    },
+    "pagarme": {
+        "api_key": "ek_live_Qw4SQxbeZ8nZO1VdscbACqwXamY4Xk"
+    },
+    "erede": {
+        "pv": "52016943",
+        "token": "a46a35e9f14d4b9f83644fc8303fbb44"
+    }
+}
